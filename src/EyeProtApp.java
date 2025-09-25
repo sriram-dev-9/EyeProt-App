@@ -54,6 +54,10 @@ public class EyeProtApp {
                 "EyeProt is running in the system tray.\nIt will remind you to follow the 20-20-20 rule.", 
                 TrayIcon.MessageType.INFO);
     }
+
+    private void newScreen() {
+
+    }
     
   
     private void setupSystemTray() throws AWTException {
@@ -113,6 +117,7 @@ public class EyeProtApp {
         
         systemTray.add(trayIcon);
     }
+
     
     private Image createTrayIconImage() {
         int size = 16; 
@@ -351,3 +356,10 @@ public class EyeProtApp {
         window.setLocation(x, y);
     }
 }
+
+
+
+
+
+
+

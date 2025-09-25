@@ -1,3 +1,0 @@
-@echo off
-echo Starting EyeProt application...
-start javaw -jar EyeProt.jar

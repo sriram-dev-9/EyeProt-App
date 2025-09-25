@@ -1,0 +1,4 @@
+AppName=EyeProt
+AppVersion=1.0
+AppVendor=EyeProt Team
+AppDescription=Eye Protection Application following the 20-20-20 rule
